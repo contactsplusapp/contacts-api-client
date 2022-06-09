@@ -7,7 +7,7 @@ Clojure SDK for [Contacts+ API](https://www.contactsplus.com/developers/contacts
 
 ### Installation
 
-`[fullcontact/full.contacts-api-client "0.2.4"]`
+`[org.clojars.contactsplus/contacts-api-client "0.4.0"]`
 
 ### Documentation
 
@@ -33,4 +33,4 @@ API Documentation can be found at [https://www.contactsplus.com/developers/conta
 
 To run tests:
 
-`./lein midje`
+`lein midje`

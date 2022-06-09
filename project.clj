@@ -1,4 +1,4 @@
-(defproject contactsplusapp/contacts-api-client "0.4.0"
+(defproject org.clojars.contactsplus/contacts-api-client "0.4.0"
     :description "Clojure SDK for Contacts+ API"
     :url "https://github.com/contactsplusapp/contacts-api-client"
     :license {:name "Eclipse Public License - v 1.0"
